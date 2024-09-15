@@ -3,8 +3,8 @@
 
 **Steps to run the application**
 
-1. **Load “React App/user-authentication” in Visual Studio. Click New terminal enter command “npm run serve”**
 1. **Load “React App/user-authentication-backend” in Visual Studio. Click New terminal enter command “npm run start”**
+1. **Load “React App/user-authentication” in Visual Studio. Click New terminal enter command “npm run serve”**
 
 **Conceptual Diagram**
 
