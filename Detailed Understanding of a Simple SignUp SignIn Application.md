@@ -49,7 +49,7 @@
 **Sign-Up Process**
 
 1. User Interaction: The user fills out the sign-up form in the React application.
-1. Form Submission: The frontend sends a POST request to the API Gateway (/signup **endpoint).**
+1. Form Submission: The frontend sends a POST request to the API Gateway (/signup endpoint).
 1. API Gateway: Routes the request to the NestJS API.
 1. NestJS API:*
    1. Validates the input data (email, name, password).
