@@ -3,9 +3,9 @@
 
 **Steps to run the application**
 
-1. **Clone application https://github.com/ni3j24nj/easygeneratorcode.git**
-1. **Load “easygeneratercode/user-authentication-backend” in Visual Studio. Update MongoDB connection in env file. Click New terminal enter command “npm install” and “npm run start”**
-1. **Load “easygeneratercode/user-authentication” in Visual Studio.Click New terminal enter command “npm install”, “npm run build” and “npm run serve”**
+1. **Clone application in visual studio code using url : https://github.com/ni3j24nj/easygeneratorcode.git**
+1. **To run backend Application load “easygeneratercode/user-authentication-backend” in Visual Studio. Update MongoDB connection in env file. Click New terminal enter command “npm install” and “npm run start”**
+1. **To run UI Application load “easygeneratercode/user-authentication” in Visual Studio.Click New terminal enter command “npm install”, “npm run build” and “npm run serve” step by step**
 
 **Conceptual Diagram**
 
