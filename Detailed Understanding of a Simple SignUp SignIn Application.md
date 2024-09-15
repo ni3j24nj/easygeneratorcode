@@ -8,7 +8,7 @@
 
 **Conceptual Diagram**
 
-![](Aspose.Words.089b2cc2-e739-4a3f-a98a-52a266ed3cac.001.png)
+
 
 **Components Description**
 
