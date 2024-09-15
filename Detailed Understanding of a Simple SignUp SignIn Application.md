@@ -41,7 +41,6 @@
 
 **Sequence Diagram**
 
-![](Aspose.Words.089b2cc2-e739-4a3f-a98a-52a266ed3cac.002.png)
 
 **Sequence of Operations**
 
@@ -51,18 +50,18 @@
 
 1. User Interaction: The user fills out the sign-up form in the React application.
 1. Form Submission: The frontend sends a POST request to the API Gateway (/signup **endpoint).**
-1. **API Gateway: Routes the request to the NestJS API.**
-1. **NestJS API:**
-   1. **Validates the input data (email, name, password).**
-   1. **Check if the email is already in use.**
-   1. **Hashes the password and stores the user data in MongoDB.**
-1. **Response: Sends a success response back to the frontend.**
-1. **Frontend Redirect: Redirects the user to the application page with a welcome message.**
+1. API Gateway: Routes the request to the NestJS API.
+1. NestJS API:*
+   1. Validates the input data (email, name, password).
+   1. Check if the email is already in use.
+   1. Hashes the password and stores the user data in MongoDB.
+1. **Response: Sends a success response back to the frontend.
+1. **Frontend Redirect: Redirects the user to the application page with a welcome message.
 
 **Sign-In Process**
 
 1. User Interaction: The user fills out the sign-in form in the React application.
-1. Form Submission: The frontend sends a POST request to the API Gateway (/signin **endpoint).**
+1. Form Submission: The frontend sends a POST request to the API Gateway (/signin endpoint).
 1. API Gateway: Routes the request to the NestJS API.
 1. NestJS API:
    1. Validates the input data (email, password).
