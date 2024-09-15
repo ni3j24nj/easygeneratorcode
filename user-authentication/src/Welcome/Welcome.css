@@ -1,0 +1,47 @@
+.welcome-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full height */
+    background-color: #e9ecef; /* Light grey background */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+ 
+.welcome-message {
+    font-size: 2.5rem;
+    color: #333; /* Dark text color */
+    margin-bottom: 20px;
+}
+ 
+.button-container {
+    margin-top: 20px;
+}
+ 
+.welcome-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    cursor: pointer;
+    margin: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s;
+}
+ 
+.welcome-button:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+ 
+/* Optional: Add a responsive design */
+@media (max-width: 600px) {
+    .welcome-message {
+        font-size: 2rem;
+    }
+ 
+    .welcome-button {
+        width: 100%;
+    }
+}
