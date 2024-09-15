@@ -3,8 +3,9 @@
 
 **Steps to run the application**
 
-1. **Load “React App/user-authentication-backend” in Visual Studio. Click New terminal enter command “npm install” and “npm run start”**
-1. **Load “React App/user-authentication” in Visual Studio. Click New terminal enter command “npm install” and “npm run serve”**
+1. **Clone application https://github.com/ni3j24nj/easygeneratorcode.git**
+1. **Load “easygeneratercode/user-authentication-backend” in Visual Studio. Update MongoDB connection in env file. Click New terminal enter command “npm install” and “npm run start”**
+1. **Load “easygeneratercode/user-authentication” in Visual Studio.Click New terminal enter command “npm install”, “npm run build” and “npm run serve”**
 
 **Conceptual Diagram**
 
