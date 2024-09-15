@@ -1,5 +1,5 @@
 ﻿
-# <a name="_3svk6180pc3h"></a>Detailed Architecture Understanding
+# Detailed Architecture Understanding
 
 **Steps to run the application**
 
