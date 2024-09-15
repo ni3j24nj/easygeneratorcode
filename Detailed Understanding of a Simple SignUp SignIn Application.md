@@ -8,7 +8,7 @@
 
 **Conceptual Diagram**
 
-
+![alt text](image-1.png)
 
 **Components Description**
 
@@ -41,6 +41,7 @@
 
 **Sequence Diagram**
 
+![alt text](image.png)
 
 **Sequence of Operations**
 
